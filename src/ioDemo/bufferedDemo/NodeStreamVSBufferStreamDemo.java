@@ -3,7 +3,7 @@ package ioDemo.bufferedDemo;
 import java.io.*;
 
 // 节点流和缓冲流的性能对比
-public class NodeStreamVSBufferStream {
+public class NodeStreamVSBufferStreamDemo {
 
     public static void main(String[] args) {
         File source = new File("src/ioDemo/file/txt/music.mp3");
