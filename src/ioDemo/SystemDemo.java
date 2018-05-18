@@ -1,4 +1,4 @@
-package ioDemo.fileStreamDemo;
+package ioDemo;
 
 import java.util.Map;
 import java.util.Properties;
