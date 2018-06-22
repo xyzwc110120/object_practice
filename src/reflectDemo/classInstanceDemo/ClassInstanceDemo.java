@@ -1,4 +1,4 @@
-package reflectDemo;
+package reflectDemo.classInstanceDemo;
 
 import java.util.Date;
 
