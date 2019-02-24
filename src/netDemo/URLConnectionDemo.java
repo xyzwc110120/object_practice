@@ -11,14 +11,14 @@ import java.nio.file.Paths;
 public class URLConnectionDemo {
 
     public static void main(String[] args) throws IOException {
+        // URL url = new URL("http", "www.banmashenghuo.com", "/static/tags/6dcddcae-ffaa-4feb-8b31-8be5d5bb031a.png")
         /*
-        此方法等同于调用带四个参数的构造方法（指定 port 为 -1 指示 URL 应使用协议的默认端口）：
+            此方法等同于调用带四个参数的构造方法（指定 port 为 -1 指示 URL 应使用协议的默认端口）：
             public URL(String protocol, String host, String file)
                     throws MalformedURLException {
                 this(protocol, host, -1, file);
             }
         */
-        // URL url = new URL("http", "www.banmashenghuo.com", "/static/tags/6dcddcae-ffaa-4feb-8b31-8be5d5bb031a.png")
         URL url = new URL("http", "www.banmashenghuo.com", 80, "/static/tags/6dcddcae-ffaa-4feb-8b31-8be5d5bb031a.png");
         // 打开 URL 的连接对象
         URLConnection conn = url.openConnection();
