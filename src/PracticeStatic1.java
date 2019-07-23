@@ -1,6 +1,3 @@
-/**
- * Created by BM0010 on 2017/6/6.
- */
 class Person2 {
 
     static String param = "类变量";

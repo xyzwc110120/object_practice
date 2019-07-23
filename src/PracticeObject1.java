@@ -21,9 +21,9 @@ public class PracticeObject1 {
         System.out.println("member1.name：" + member1.name);
         System.out.println("member1.name == member3.name：" + (member1.name == member3.name) );
 
-        System.out.println("对象member1地址：" + member1);
-        System.out.println("对象member2地址：" + member2);
-        System.out.println("对象member3地址：" + member3);
+        System.out.println("对象　member1　地址：" + member1);
+        System.out.println("对象　member2　地址：" + member2);
+        System.out.println("对象　member3　地址：" + member3);
         System.out.println("member1 == member2：" + (member1 == member2));
         System.out.println("member1 == member3：" + (member1 == member3));
 
