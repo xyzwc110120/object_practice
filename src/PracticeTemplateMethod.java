@@ -5,8 +5,8 @@ public class PracticeTemplateMethod {
         System.out.println("StringBuilder：" + new StringBuilderOperate().getOperateTime());
         System.out.println("StringBuffer：" + new StringBufferOperate().getOperateTime());
     }
-
 }
+
 
 // 计算方法执行所化时间
 abstract class AbstractOperateTimeTemplate {
@@ -23,8 +23,8 @@ abstract class AbstractOperateTimeTemplate {
 
     // 抽象方法（由子类完成功能），使用 protected 访问修饰符让此抽象方法只能被子类使用，外界无法调用
     abstract protected void doWork();
-
 }
+
 
 // String 循环连接10000次
 class StringOperate extends AbstractOperateTimeTemplate {
@@ -38,6 +38,7 @@ class StringOperate extends AbstractOperateTimeTemplate {
     }
 }
 
+
 // StringBuilder 循环连接10000次
 class StringBuilderOperate extends AbstractOperateTimeTemplate {
 
@@ -49,6 +50,7 @@ class StringBuilderOperate extends AbstractOperateTimeTemplate {
         }
     }
 }
+
 
 class StringBufferOperate extends AbstractOperateTimeTemplate{
 

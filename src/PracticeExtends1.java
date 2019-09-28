@@ -25,6 +25,7 @@ class Person4 {
 
 }
 
+
 class Student extends Person4 {
     private String name;      // 姓名
 
@@ -41,6 +42,7 @@ class Student extends Person4 {
     }
 }
 
+
 class Teacher extends Person4 {
     String subject;     // 所教科目
 
@@ -55,6 +57,7 @@ class Teacher extends Person4 {
         System.out.println("老师教书");
     }
 }
+
 
 public class PracticeExtends1 {
     public static void main(String[] args) {

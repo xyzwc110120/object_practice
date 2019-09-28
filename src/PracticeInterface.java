@@ -3,8 +3,8 @@ public class PracticeInterface {
     public static void main(String[] args) {
         System.out.println("接口练习");
     }
-
 }
+
 
 interface InterfaceDemo {       // 编译成功后和类一样会单独生成一个 .class 文件的字节码
 
@@ -28,5 +28,4 @@ interface InterfaceDemo {       // 编译成功后和类一样会单独生成一
         接口中定义的内部类/接口都是公共静态的，默认使用 public static 来修饰
         编译后：public static interface innerInterface {}
     */
-
 }

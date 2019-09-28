@@ -28,7 +28,6 @@ public class PracticeRunSequence {
     public static void main(String[] args) {
         System.out.println("练习类主方法");
     }
-
 }
 
 
@@ -51,5 +50,4 @@ class SubClass extends SuperClass {
     SubClass() {
         System.out.println("子类构造方法");
     }
-
 }

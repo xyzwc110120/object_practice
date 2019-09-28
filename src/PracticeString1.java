@@ -23,5 +23,4 @@ public class PracticeString1 {
         // 这样str1 == str2就是返回false了，str1和str2不是同一个对象
         System.out.println("str1 == str2：" + (str1 == str2));
     }
-
 }

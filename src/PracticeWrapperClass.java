@@ -8,19 +8,18 @@ public class PracticeWrapperClass {
         // 编译后：Integer a = Integer.valueOf(1);
         int b = a;
         // 编译后：int b = a.intValue();
-        // 自动装/拆箱其实是在底层手动装/拆箱（见编译后文件：PracticeWrapperClass.class）
         System.out.println(a);
         System.out.println(b);
+        // 自动装 / 拆箱其实是在底层手动装 / 拆箱（见编译后文件：PracticeWrapperClass.class）
 
         // List<int> list = new ArrayList<>();      在Java集合框架中，只能存储对象，不能存储基本类型值
         List<Integer> list = new ArrayList<>();
         list.add(1);
         list.add(2);
         /*
-        * 编译后：
+        * 编译后（自动装箱）：
         *       list.add(Integer.valueOf(1));
         *       list.add(Integer.valueOf(2));
-        * 自动装箱
         */
 
         Integer x = 1;

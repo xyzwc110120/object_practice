@@ -12,9 +12,9 @@ public class PracticeFinally {
         try {
             return a;
         } finally {
-            // 此语句会执行，但是返回的是catch中的值
+            // 此语句会执行，但是返回的是 catch 中的值
             // ++a;
-            // 如果finally语句块中有return语句，则永远返回finally中的结果
+            // 如果 finally 语句块中有 return 语句，则永远返回 finally 中的结果
             return ++a;
         }
     }
@@ -27,7 +27,7 @@ public class PracticeFinally {
             return map;                 // 打印结果为：finally（因为保留的是 map 对象）
         } finally {
             map.put("key", "finally");
-            map = null;                 // 打印结果仍为：finally（因为return保留的是值，是map中的引用的值，也就是堆内存地址）
+            map = null;                 // 打印结果仍为：finally（因为 return 保留的是值，是 map 中的引用的值，也就是堆内存地址）
         }
     }
 }

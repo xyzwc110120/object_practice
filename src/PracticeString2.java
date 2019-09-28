@@ -24,5 +24,4 @@ public class PracticeString2 {
         System.out.println("str1 == str6:" + (str1 == str6));       // false
         System.out.println("str5 == str6:" + (str5 == str6));       // false
     }
-
 }
