@@ -39,5 +39,4 @@ public class PriorityDemo {
          除非创建超出电脑核数的线程来测试
         */
     }
-
 }

@@ -43,5 +43,4 @@ public class GenericDemo {
     // 泛型的下限：此时的泛型 ? ，必须是 Number 类型或 Number 类的父类，这里设置了下限为 Number 类。
     private static void lowerLimit(List<? super Number> list) {
     }
-
 }

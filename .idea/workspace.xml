@@ -1,41 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1b948648-f35a-4ee1-8fc4-363422092747" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/threadMethod/resourceSharing/ByRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threadMethod/resourceSharing/ByThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionDemo/IterationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionDemo/IterationRemoveDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/ArrayListDemo/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/BasketballPlayerDemo/BasketballPlayerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/DequeDemo/MyDeque.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/object_practice/EatRunnableImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/EatRunnableImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/object_practice/EatThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/EatThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/object_practice/PracticeExtends1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/PracticeExtends1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/object_practice/PracticeRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/PracticeRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/object_practice/PracticeThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/PracticeThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/object_practice/PracticeThrows.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/PracticeThrows.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/object_practice/PracticeWrapperClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/PracticeWrapperClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/object_practice/StringBufferOperate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/StringBufferOperate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/object_practice/StringBuilderOperate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/StringBuilderOperate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/object_practice/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/object_practice/SubClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/SubClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/object_practice/SuperClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/SuperClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/object_practice/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeBigDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeBigDecimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeExtends1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeExtends1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeFinally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeFinally.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeRunSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeRunSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeString1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeString1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeString2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeString2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeTemplateMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeTemplateMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeThrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeThrows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeWrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWrapperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/object_practice/PracticeSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/PracticeSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/object_practice/SingletonDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/SingletonDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/object_practice/SingletonDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/SingletonDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/object_practice/dataStructure/linkedListDemo/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/dataStructure/linkedListDemo/MyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/object_practice/examples/producerAndConsumer/ShareResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/object_practice/examples/producerAndConsumer/ShareResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionDemo/HashSetDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionDemo/HashSetDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionDemo/HashSetDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionDemo/HashSetDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionDemo/TreeSetDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionDemo/TreeSetDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/linkedListDemo/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/linkedListDemo/LinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/linkedListDemo/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/linkedListDemo/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/examples/producerAndConsumer/ShareResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/producerAndConsumer/ShareResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericType/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/genericType/GenericDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericType/GenericDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/genericType/GenericDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadMethod/DaemonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadMethod/DaemonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadMethod/JoinDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadMethod/JoinDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadMethod/PriorityDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadMethod/PriorityDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadMethod/TimerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadMethod/TimerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadMethod/YieldDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadMethod/YieldDemo.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
@@ -58,7 +75,12 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1OYWnmJ9vbxxCW0X5JOs9o51VOI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -71,22 +93,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ByRunnable">
+  <component name="RunManager" selected="Application.IterationRemoveDemo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -107,13 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ByThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadMethod.resourceSharing.ByThread" />
+    <configuration name="DaemonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadMethod.DaemonDemo" />
       <module name="object_practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadMethod.resourceSharing.*" />
+          <option name="PATTERN" value="threadMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,29 +130,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeObject2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeObject2" />
-      <module name="object_practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticeRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeRunnable" />
-      <module name="object_practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProducerAndConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="examples.producerAndConsumer.ProducerAndConsumerTest" />
+    <configuration name="IterationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionDemo.IterationDemo" />
       <module name="object_practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="examples.producerAndConsumer.*" />
+          <option name="PATTERN" value="collectionDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterationRemoveDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionDemo.IterationRemoveDemo" />
+      <module name="object_practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collectionDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadMethod.JoinDemo" />
+      <module name="object_practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,14 +205,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IterationRemoveDemo" />
+        <item itemvalue="Application.IterationDemo" />
+        <item itemvalue="Application.DaemonDemo" />
+        <item itemvalue="Application.JoinDemo" />
         <item itemvalue="Application.ByRunnable" />
-        <item itemvalue="Application.ByThread" />
-        <item itemvalue="Application.ProducerAndConsumerTest" />
-        <item itemvalue="Application.PracticeRunnable" />
-        <item itemvalue="Application.PracticeObject2" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -218,7 +240,22 @@
       <workItem from="1568783294776" duration="4630000" />
       <workItem from="1568862994945" duration="7633000" />
       <workItem from="1569564498975" duration="3856000" />
-      <workItem from="1569648797588" duration="5639000" />
+      <workItem from="1569648797588" duration="10220000" />
+      <workItem from="1569732744453" duration="3407000" />
+      <workItem from="1597757246287" duration="30921000" />
+      <workItem from="1597842048436" duration="2597000" />
+      <workItem from="1597928753970" duration="1014000" />
+      <workItem from="1598448995600" duration="37000" />
+      <workItem from="1598449378155" duration="1636000" />
+      <workItem from="1598533278138" duration="3882000" />
+      <workItem from="1598618620564" duration="4564000" />
+      <workItem from="1598667783661" duration="8877000" />
+      <workItem from="1598688312572" duration="8545000" />
+      <workItem from="1598751760799" duration="11524000" />
+      <workItem from="1598872590069" duration="6138000" />
+      <workItem from="1598965591911" duration="3968000" />
+      <workItem from="1599052703982" duration="1776000" />
+      <workItem from="1599134566598" duration="2180000" />
     </task>
     <task id="LOCAL-00001" summary="修改配置文件">
       <created>1551018816769</created>
@@ -234,29 +271,73 @@
       <option name="project" value="LOCAL" />
       <updated>1551019006990</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改注释">
+      <created>1597757351262</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597757351262</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改配置文件" />
     <MESSAGE value="修改注释" />
     <option name="LAST_COMMIT_MESSAGE" value="修改注释" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="86" key="CommitChangelistDialog2" timestamp="1597757349333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597757349333" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1598885157319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598885157319" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1598885157319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598885157319" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1598885157303">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598885157303" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1598885157319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598885157319" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1597757981095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597757981095" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1597757995758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597757995758" />
+    <state x="690" y="279" key="extract.method.dialog" timestamp="1598692983062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="279" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598692983062" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598713062418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598713062418" />
   </component>
   <component name="masterDetails">
     <states>

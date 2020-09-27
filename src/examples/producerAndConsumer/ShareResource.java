@@ -55,7 +55,6 @@ public class ShareResource {
             reentrantLock.unlock();
         }
 
-
         // System.out.println(this.name + "-" + this.sex);
     }
 

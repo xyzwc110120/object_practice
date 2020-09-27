@@ -53,5 +53,4 @@ public class HashSetDemo2 {
         System.out.println(set.size());
         System.out.println(set);
     }
-
 }

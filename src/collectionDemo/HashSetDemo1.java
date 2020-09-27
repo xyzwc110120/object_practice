@@ -3,7 +3,7 @@ package collectionDemo;
 import java.util.HashSet;
 import java.util.Set;
 
-// 创建3个类
+// 创建3个类（A 类、B 类、C 类）
 class A {
     // 覆盖 hashCode 方法
     @Override
@@ -46,5 +46,4 @@ public class HashSetDemo1 {
         // 而 C 类同时覆盖了比较的两个方法，所以判断为重复，所以集合中只有1个 C 类对象
         System.out.println(set);
     }
-
 }

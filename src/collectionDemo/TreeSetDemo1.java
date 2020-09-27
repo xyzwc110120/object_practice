@@ -76,7 +76,5 @@ public class TreeSetDemo1 {
         set1.add(new Person("921", 20));
         set1.add(new Person("4162", 14));
         System.out.println(set1);
-
     }
-
 }

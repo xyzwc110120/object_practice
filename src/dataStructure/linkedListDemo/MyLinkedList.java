@@ -16,9 +16,9 @@ public class MyLinkedList {
     }
 
     // 链表中第一个节点
-    private Node first;
+    protected Node first;
     // 链表中最后一个节点
-    private Node last;
+    protected Node last;
     // 链表中节点数量
     private int size = 0;
 
@@ -139,5 +139,4 @@ public class MyLinkedList {
         this.size--;    // 减少链表节点数量
 
     }
-
 }

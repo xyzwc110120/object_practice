@@ -21,9 +21,8 @@ public class JoinDemo {
                 join.start();       // 启动 join 线程
             }
             if (i == 30) {
-                join.join();        // 强制运行 join 线程，当join线程全部运行结束后再运行主线程
+                join.join();        // 强制运行 join 线程，当 join 线程全部运行结束后再运行主线程
             }
         }
     }
-
 }

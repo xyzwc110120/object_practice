@@ -18,5 +18,4 @@ public class LinkedListDemo {
 
         System.out.println(linkedList.search("B").ele);
     }
-
 }

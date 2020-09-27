@@ -15,7 +15,7 @@ public class DaemonDemo {
     public static void main(String[] args) {
         DaemonThread daemonThread = new DaemonThread();       // 创建线程对象
 
-        for (int i = 0; i< 50; i ++) {
+        for (int i = 0; i < 50; i ++) {
             System.out.println("main : " + i);
             if (i == 10) {
                 daemonThread.setDaemon(true);       // 设置线程为后台线程，必须在 start() 方法调用前设置
@@ -23,5 +23,4 @@ public class DaemonDemo {
             }
         }
     }
-
 }

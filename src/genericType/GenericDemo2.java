@@ -22,5 +22,4 @@ public class GenericDemo2 {
         String num = list3.get(0);
         // 因为集合中的第一个元素是 Integer 类型的，此时相当于： String num = 123;
     }
-
 }
