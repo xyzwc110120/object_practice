@@ -21,5 +21,4 @@ public class PropertiesDemo1 {
         System.out.println(val1);
         System.out.println(val2);
     }
-
 }

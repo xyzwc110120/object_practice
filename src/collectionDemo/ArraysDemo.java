@@ -46,5 +46,4 @@ public class ArraysDemo {
         int[] arr = {1, 2, 3, 4};
         // List<int> list3 = Arrays.asList(args);   // 如果传入一个数组标量，会直接把数组当作对象，不会自动装箱
     }
-
 }

@@ -36,6 +36,4 @@ public class FileDemo3 {
             listAllParent(parentNames, file.getParentFile());
         }
     }
-
-
 }

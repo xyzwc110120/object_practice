@@ -19,5 +19,4 @@ public class MapDemo1 {
         }
         System.out.println(map);
     }
-
 }
